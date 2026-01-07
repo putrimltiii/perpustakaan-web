@@ -117,57 +117,79 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
+## Struktur Directory
+Berikut struktur folder project **Perpustakaan Web**:
+<img width="224" height="783" alt="image" src="https://github.com/user-attachments/assets/b718d88f-2469-4b91-82f6-7ed1532a3ebf" />
+
+---
+
 ## Screenshot Aplikasi
 - Halaman Login
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36a22843-fc56-444a-a9f5-26e51fbf7aa7" />
+
+---
 
 - Halaman Register
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4112f9f4-2648-4bea-91d8-710be82c253e" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffc4ae7d-2ffc-47e0-9d0f-96307b97aea7" />
 
+---
+
 - Halaman Data Buku
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c2e4f10-8b16-42a8-9b07-3f83ed0d2f20" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14edb994-592e-4517-9360-bbfd69e948a4" />
+
+---
 
 - Halaman Tambah Buku
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc27fa91-386c-4d42-bffe-c92779903031" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd6ba134-9e6c-4f51-b363-2ca157862e07" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d13bc5eb-0b99-4e8a-90aa-50f1fdfaefbc" />
 
+---
+
 - Halaman Edit Buku
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9748d749-e03a-4fbd-ab69-b11718725a0f" />
 
-# Tampilan Mobile
+---
+
+## Tampilan Mobile
 - Login
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e47ecdf8-8e38-4c3d-a1ce-650a5de684a2" />
+
+---
 
 - Register
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da06476f-6392-484f-a2d6-960c762c9d2c" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f50cd470-d2a4-4186-98d8-0a8f26b409f4" />
+
+---
 
 - Data Buku (bisa geser ke samping)
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f94e8613-57cc-40ef-bb7f-4c52ea1c4985" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18cfc83c-42ad-4a23-9f39-326a06f474b6" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f9dbdc5-2a63-48da-b7da-3f749a4984b5" />
 
+---
+
 - Tambah Buku
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e52b9dc9-954c-404a-a1e3-b28ead29efa7" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc63a805-db66-494b-ae9a-5f8a5e8c937f" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e803a27e-74d3-46eb-9fab-610a58eb6710" />
 
+---
+
 - Edit Buku
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bddade74-8c39-4fc4-9b16-79b466eddf46" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55af8605-6dc0-4f12-ad8d-2693972c255c" />
+
+---
 
 ## Tampilan User
    Tidak dapat mengubah data (Read Only)
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59a7912a-b9e2-4e76-9e45-9f879d0585cd" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59a7912a-b9e2-4e76-9e45-9f879d0585cd" />
 
-
-
-
-
-
-
+---
 
 ### UI / UX
 - Tema modern classic (ungu / lilac)
@@ -176,8 +198,3 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 - Desain yang konsisten pada Login, Register, Tambah & Edit Buku
 
 ---
-
-## Struktur Directory
-Berikut struktur folder project **Perpustakaan Web**:
-
-<img width="224" height="783" alt="image" src="https://github.com/user-attachments/assets/b718d88f-2469-4b91-82f6-7ed1532a3ebf" />
