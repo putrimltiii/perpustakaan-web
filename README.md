@@ -42,8 +42,8 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-## Role dan Hak Akses
-# Admin
+# Role dan Hak Akses
+## Admin
 - Login ke sistem
 - Melihat data buku
 - Menambah buku
@@ -54,7 +54,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-# User
+## User
 - Login ke sistem
 - Melihat data buku
 - Mencari buku
