@@ -62,7 +62,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-## Fitur Utama Aplikasi
+# Fitur Utama Aplikasi
 1. Login & Register
 - Autentikasi menggunakan session
 - Tampilan modern dan responsif
@@ -100,7 +100,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-## Alur Kerja Aplikasi
+# Alur Kerja Aplikasi
 1. User membuka aplikasi
    Dapat diakses di Chrome: ( http://localhost/perpustakaan-web/index.php?page=login )
 3. User melakukan Login / Register
@@ -112,7 +112,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-## Teknologi yang Digunakan
+# Teknologi yang Digunakan
 1. PHP Native
 2. MySQL
 3. Bootstrap 5
@@ -122,14 +122,14 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 ---
 
-## Struktur Directory
+# Struktur Directory
 Berikut struktur folder project **Perpustakaan Web**:
 
 <img width="224" height="783" alt="image" src="https://github.com/user-attachments/assets/b718d88f-2469-4b91-82f6-7ed1532a3ebf" />
 
 ---
 
-## Screenshot Aplikasi
+# Screenshot Aplikasi
 - Halaman Login
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36a22843-fc56-444a-a9f5-26e51fbf7aa7" />
 
@@ -163,7 +163,7 @@ Berikut struktur folder project **Perpustakaan Web**:
 
 ---
 
-## Tampilan Mobile
+# Tampilan Mobile
 - Login
   
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e47ecdf8-8e38-4c3d-a1ce-650a5de684a2" />
@@ -200,7 +200,7 @@ Berikut struktur folder project **Perpustakaan Web**:
 
 ---
 
-## Tampilan User
+# Tampilan User
 
    Tidak dapat mengubah data (Read Only)
    
