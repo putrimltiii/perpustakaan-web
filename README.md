@@ -6,7 +6,6 @@
 ---
 
 # Perpustakaan Web (PHP Native)
-
 Sistem Informasi Perpustakaan Berbasis Web adalah aplikasi yang digunakan untuk mengelola data buku dan pengguna pada sebuah perpustakaan secara online.
 Aplikasi ini dibuat menggunakan PHP Native, MySQL, dan Bootstrap 5 dengan tampilan modern classic bernuansa ungu (lilac) serta responsif di perangkat mobile.
 
@@ -31,6 +30,8 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 - Mengatur hak akses pengguna berdasarkan role
 - Menyajikan tampilan yang modern, rapi, dan responsif
 - Sebagai penerapan konsep CRUD, Session, Pagination, dan Upload File dalam PHP
+
+---
 
 ## Teknologi yang Digunakan
 - Bahasa Pemrograman: PHP (Native)
