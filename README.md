@@ -102,7 +102,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 
 # Alur Kerja Aplikasi
 1. User membuka aplikasi
-   Dapat diakses di Chrome: ( http://localhost/perpustakaan-web/index.php?page=login )
+   Dapat diakses di Chrome (Open Xampp Nyalakan Apache): ( http://localhost/perpustakaan-web/index.php?page=login ) 
 3. User melakukan Login / Register
 5. Sistem mengecek role pengguna
 6. User diarahkan ke halaman Dashboard / Data Buku
