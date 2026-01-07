@@ -39,6 +39,7 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 - Server Lokal: XAMPP
 - Version Control: Git & GitHub
 
+---
 
 ## Role dan Hak Akses
 # Admin
@@ -50,14 +51,17 @@ Perpustakaan Web adalah aplikasi CRUD (Create, Read, Update, Delete) yang memung
 - Upload cover buku
 - Logout
 
+---
+
 # User
 - Login ke sistem
 - Melihat data buku
 - Mencari buku
 - Tidak dapat mengubah data (Read Only)
 
-## Fitur Utama Aplikasi
+---
 
+## Fitur Utama Aplikasi
 1. Login & Register
 - Autentikasi menggunakan session
 - Tampilan modern dan responsif
