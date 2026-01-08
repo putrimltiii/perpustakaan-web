@@ -3,6 +3,8 @@
 ## Kelas: TI.24.A1
 ## Mata Kuliah: Pemrograman Web 1
 
+Link Youtube: https://youtu.be/K7MI4qP6JvQ?si=Cc5NHmMHeIbifk56
+
 ---
 
 # Perpustakaan Web (PHP Native)
